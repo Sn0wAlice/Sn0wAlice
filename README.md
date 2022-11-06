@@ -1,10 +1,10 @@
-Hey! Welcome to my github. Yes, there is everything, and a bit of anything! but hey... In short, my codes may be useful to you in several situations
+Hey! Welcome to my github. Yes, there is everything, and a bit of anything! but who cares ?
 
 <img src="./pic/main.png" align="right" height="450">
 
 <h3><img src="./pic/Chika_Dance.gif" height="20"> <u><b>A Few Quick Facts</b></u></h3>
 <ul>
-<li>🔭 I’m currently working on <b>crazy scripts</b></li>
+<li>🔭 I’m currently working on <b>non open source script</b></li>
 <li><img src="./pic/734622181589254245.gif" height="17"> <b>CyberSec</b> student</li>
 <li>💣 <b>Blue Team</b> | <b>Red Team</b></li>
 </ul>
