@@ -1,4 +1,5 @@
-Hey! Welcome to my github. Yes, there is everything, and a bit of anything! but who cares ?
+Hey! Welcome to my github. Yes, there is everything, and a bit of anything! but who cares ?<br>
+Talk me about your cybersec need(s) / project(s) at [snow.alice@pm.me](snow.alice@pm.me), i will be happy to help you !
 
 <img src="./pic/main.png" align="right" height="450">
 
