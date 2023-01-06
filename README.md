@@ -10,8 +10,11 @@ Talk me about your cybersec need(s) / project(s) at [snow.alice@pm.me](snow.alic
 <li>💣 <b>Blue Team</b> is the best one</li>
 </ul>
 
-| My portfolio 🎁 |  [www.alice-snow.me](https://www.alice-snow.me) 🌐 |
+| My website 🎁 |  The url |
 | -------------- | :--------- |
+| My portfolio |  [www.alice-snow.me](https://www.alice-snow.me) 🌐 |
+| My blog |  [doc.alice-snow.me](https://doc.alice-snow.me) 🌐 |
+
 
 Why netrunner? that's a great question. Maybe it's like a kind of impulse that pushes me to do the job of a netrunner all day long and to continue to advance in increasingly crazy and increasingly complex projects for pure pleasure. *Who knows* ?
 
