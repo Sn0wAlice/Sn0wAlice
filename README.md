@@ -1,23 +1,23 @@
-Hey! Welcome to my github. Yes, there is everything, and a bit of anything! but who cares ?<br>
-Talk me about your cybersec need(s) / project(s) at [snow.alice@pm.me](snow.alice@pm.me), i will be happy to help you !
+Hey! Welcome to my github. Yes, there is everything, and a bit of anything! but who cares ?
 
 <img src="./pic/main.png" align="right" height="450">
 
-<h3><img src="./pic/Chika_Dance.gif" height="20"> <u><b>A Few Quick Facts</b></u></h3>
+<h3><img src="./pic/Chika_Dance.gif" height="20" width="20"> <u><b>A Few Quick Facts</b></u></h3>
 <ul>
 <li>🔭 I’m currently in cybersecurity company</li>
-<li>📚 <b>CyberSec</b> is my life</li>
 <li>💣 <b>Blue Team</b> is the best one</li>
+<li>🎁 <b>My portfolio:</b> www.alice-snow.ru </li>
+<li>🐦‍⬛ <b>My Twitter:</b> <a href="https://x.com/Sn0wAlice">x.com/Sn0wAlice</a> </li>
 </ul>
-
-| Website | URL |
-| -------------- | :--------- |
-| My portfolio 🎁 |  [www.alice-snow.ru](https://www.alice-snow.ru) |
-| My twitter 🐦‍⬛ |  [@Sn0wAlice](https://twitter.com/Sn0wAlice) |
 
 
 Why netrunner? that's a great question. Maybe it's like a kind of impulse that pushes me to do the job of a netrunner all day long and to continue to advance in increasingly crazy and increasingly complex projects for pure pleasure. *Who knows* ?
 
-| Website | Tags | URL |
+Here is the website that i run
+
+| Website | Status | URL |
 | -------------- | :--------- | :--------- |
-| File malware scan | cybersec, scan, malware | [mlab.sh](https://mlab.sh) |
+| Cybersecurity Docs | 🎀 continuous updated | [cybercodex.dev](https://www.cybercodex.dev) |
+| Non profit infosec organization  | 🔖 currently active | [hackintheshell.org](https://www.hackintheshell.org) |
+| Hackintheshell learning app | 🔮 work in progress | [nofuture.dev](https://nofuture.dev) |
+| File malware scan | 🔮 work in progress | [mlab.sh](https://mlab.sh) |
