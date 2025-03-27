@@ -6,19 +6,10 @@ Hey! Welcome to my github. Yes, there is everything, and a bit of anything! but 
 <ul>
 <li>🔭 I’m currently in cybersecurity company</li>
 <li>💣 <b>Blue Team</b> is the best one</li>
-<li>🎁 <b>My portfolio:</b> www.alice-snow.me </li>
+<li>🎁 <b>My portfolio:</b> link.alice-snow.me </li>
 <li>🐦‍⬛ <b>My Twitter:</b> <a href="https://x.com/Sn0wAlice">x.com/Sn0wAlice</a> </li>
 <li>📣 <b>My Discord:</b> <a href="https://discord.gg/NkGChB8dRJ">discord.gg/NkGChB8dRJ</a> </li>
 </ul>
 
 
 Why netrunner? that's a great question. Maybe it's like a kind of impulse that pushes me to do the job of a netrunner all day long and to continue to advance in increasingly crazy and increasingly complex projects for pure pleasure. *Who knows* ?
-
-Here is the website that i run
-
-| Website | Status | URL |
-| -------------- | :--------- | :--------- |
-| Cybersecurity Docs | 🎀 continuous updated | [cybercodex.dev](https://www.cybercodex.dev) |
-| Non profit infosec organization  | 🔖 currently active | [hackintheshell.org](https://www.hackintheshell.org) |
-| Hackintheshell learning app | 🔮 work in progress | [nofuture.dev](https://nofuture.dev) |
-| File malware scan | 🔮 work in progress | [mlab.sh](https://mlab.sh) |
