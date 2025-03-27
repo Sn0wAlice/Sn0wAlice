@@ -6,7 +6,7 @@ Hey! Welcome to my github. Yes, there is everything, and a bit of anything! but 
 <ul>
 <li>🔭 I’m currently in cybersecurity company</li>
 <li>💣 <b>Blue Team</b> is the best one</li>
-<li>🎁 <b>My portfolio:</b> link.alice-snow.me </li>
+<li>🎁 <b>My portfolio:</b> <a href="https://link.alice-snow.me">link.alice-snow.me</a> </li>
 <li>🐦‍⬛ <b>My Twitter:</b> <a href="https://x.com/Sn0wAlice">x.com/Sn0wAlice</a> </li>
 <li>📣 <b>My Discord:</b> <a href="https://discord.gg/NkGChB8dRJ">discord.gg/NkGChB8dRJ</a> </li>
 </ul>
