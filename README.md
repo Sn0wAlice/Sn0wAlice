@@ -23,9 +23,9 @@ motto      : “Observe. Detect. Understand. Disrupt.”
 ## 💾 Load Projects
 
 ```
-rex          - Tool for SOC analysts
-Mlab.sh      - Scan your files, ioc, logs
-Ransomware   - threat testing on my lab
+rex          : Tool for SOC analysts
+Mlab.sh      : Scan your files, ioc, logs
+Ransomware   : threat testing on my lab
 ```
 
 ## 🛠️ Installed Modules
